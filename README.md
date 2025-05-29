@@ -1,2 +1,2 @@
-# PassReader-APK-
+# PassReader-APK
 PassReader android version
